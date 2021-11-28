@@ -99,7 +99,7 @@ ganesha.rubsBelly();
 plants.needsWatering();
 
 //  action 2: Plants perform photosynthesis
-plants.arePhotosynthesizing();
+plants.performPhotosynthesis();
 
 //  action 3: Plant shoots bud
 plants.shootsBud();
