@@ -54,30 +54,30 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 //  1)
 //  Noun: bicycle
-//  action 1: the bicycle rides
-bicycle.ride();
+//  action 1: the bicycle rolls forward
+bicycle.rollsForward();
 //  action 2: the bicycle flies
 bicycle.fly();
 //  action 3: the bicycle dings its bell
-bicycle.bells();
+bicycle.dingsBell();
 
 //  2)
 //  Noun: lavalamp
-//  action 1: lavalamp is turned ON
-lavalamp.on();
+//  action 1: lavalamp illuminates room
+lavalamp.illuminatesRoom();
 //  action 2: lavalamp rotates
 lavalamp.rotate();
 
 //  action 3: lavalamp plays music
-lavalamp.music();
+lavalamp.playsMusic();
 
 //  3)
 //  Noun: Oven
-//  action 1: Oven needs cleaning
-oven.needsCleanin();
+//  action 1: Oven bakes bread
+oven.bakesBread();
 
-//  action 2: Oven makes buns
-oven.makesBuns();
+//  action 2: Oven bakes buns
+oven.bakesBuns();
 
 //  action 3: Oven light is broken
 oven.lightBroken();
@@ -98,18 +98,19 @@ ganesha.rubsBelly();
 //  action 1: Plants needs watering
 plants.needsWatering();
 
-//  action 2: Plants photosynthesize
-plants.photosynthesis();
+//  action 2: Plants perform photosynthesis
+plants.arePhotosynthesizing();
 
-//  action 3: Plants dances
-plants.dances();
+//  action 3: Plant shoots bud
+plants.shootsBud();
 
 //  6)
 //  Noun: Book on designing audio plugins
 //  action 1: Book on designing audio plugins teaches me stuff
 bookOnDesigningAudioPlugins.teaches();
 
-//  action 2: Book on designing audio plugins is bookOnDesigningAudioPlugins.isOpen();
+//  action 2: Book on designing audio plugins is being read
+bookOnDesigningAudioPlugins.isBeingRead();
 
 //  action 3: Book on designing audio plugins is lost
 bookOnDesigningAudioPlugins.isLost();
@@ -156,7 +157,7 @@ bed.callsForSleep();
 bed.isMade();
 
 //  action 3: Bed grants wonderful dreams and refreshing sleep
-bed.gransSleepAndWonders();
+bed.grantsSleepAndWonders();
 
 
 
